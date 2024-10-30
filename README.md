@@ -39,4 +39,3 @@
 
 <img src="https://raw.githubusercontent.com/DaviGramacho/DaviGramacho/output/snake.svg" alt="Snake animation" />
 
-###
