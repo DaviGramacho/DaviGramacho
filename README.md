@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Davi Pires Gramacho and I'm a student pursuing a degree in database at FATEC São José dos Campos.</h2>
+<h2 align="left">Hello 👋! My name is Davi Pires Gramacho, and I am an undergraduate student in Database Systems at FATEC São José dos Campos.</h2>
 
 ###
 
